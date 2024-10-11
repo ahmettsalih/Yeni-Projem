@@ -1,0 +1,2 @@
+# Yeni-Projem
+İlk denemem
